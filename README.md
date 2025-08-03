@@ -1,4 +1,4 @@
-# redback-smartbike-web
+# redback-smartbike-web directory
 
 Web application front-end and public-facing website for Redback Project 1 (VR SunCycle SmartBike). 
 
